@@ -2,7 +2,7 @@
 
 ## About Me
 
-![Profile Picture](/images/Chelsea_Ko.jpg)
+![Profile Picture](/images/ko.png)
 
 **Education Background:**
 
