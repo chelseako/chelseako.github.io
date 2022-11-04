@@ -3,9 +3,9 @@
 ## About Me
 **Education Background:**
 
-B.A. Psychology and Social Behavior - University of California Irvine (June 2008)
-M.A. Counseling Psychology - University of Santa Barbara (June 2010)
-M.S. Data Science - DePaul University (expected November 2022)
+B.A. Psychology and Social Behavior - University of California Irvine (June 2008)  
+M.A. Counseling Psychology - University of Santa Barbara (June 2010)  
+M.S. Data Science - DePaul University (expected November 2022)  
 
 **Email Address:** ko.chelsea.m@gmail.com
 
