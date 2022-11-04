@@ -1,6 +1,9 @@
 # Chelsea Ko's Data Science Portfolio
 
 ## About Me
+
+![Profile Picture](/images/Chelsea_Ko.jpg)
+
 **Education Background:**
 
 B.A. Psychology and Social Behavior - University of California Irvine (June 2008)  
