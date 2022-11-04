@@ -1,5 +1,3 @@
-# Chelsea Ko's Data Science Portfolio
-
 ## [Project 1: Marketing Campaign Classification Project](https://github.com/chelseako/marketing_campaign)
 
 * Built a classification model with 80% accuracy and an F1-score of 0.49 on the test data to predict customer acceptance of a marketing campaign.
