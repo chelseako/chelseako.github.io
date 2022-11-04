@@ -24,8 +24,6 @@ M.S. Data Science - DePaul University (expected November 2022)
 
 ![Distributions of Variables](/images/distributions.png)
 
-### [Link to Project GitHub Repository](https://github.com/chelseako/marketing_campaign)
-
 ## [Project 2: House Price Prediction Project](https://chelseako.github.io/House_Pricing_Project/)
 * Created a model that estimates sold prices for Honolulu houses (RMSE ~ $87,000) to help home buyers estimate a competitive bid offer.
 * Custom built a web scraper using Python and Selenium for a local real estate website.
@@ -34,8 +32,6 @@ M.S. Data Science - DePaul University (expected November 2022)
 * Optimized Linear, Ridge, Lasso, and Elastic Net Regressors to identify model with best predictive validity.
 
 ![Scatterplot of sold versus original price](/images/scatter_sold_orig.png)
-
-### [Link to Project GitHub Repository](https://github.com/chelseako/House_Pricing_Project)
 
 ## [Project 3: DREAM Project](https://github.com/chelseako/DREAMProject)
 * Selected by the Master's of Science in Computer Science (MSCS) Consortium to participate in the Distributed REsearch Apprenticeships for Master's (DREAM) Program, designed for students without a bachelor's degree in computing to participate in computing research. 
@@ -51,5 +47,3 @@ M.S. Data Science - DePaul University (expected November 2022)
      3. Dot chart infographic showing the differences in poor health days for individuals with and without healthcare access (below)
 
 ![Dot chart infographic healthcare access](/images/healthCareAccess_infographic.png)
-
-### [Link to Project GitHub Repository](https://github.com/chelseako/health_care_access)
