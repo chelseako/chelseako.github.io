@@ -1,8 +1,6 @@
-# Chelsea Ko's Data Science Portfolio
+![Profile picture](/images/ko2.png) 
 
 ## About Me
-
-![Profile Picture](/images/ko.png)
 
 **Education Background:**
 
