@@ -10,7 +10,7 @@ M.S. Data Science - DePaul University (expected November 2022)
 
 **Email Address:** ko.chelsea.m@gmail.com
 
-## [Project 1: Marketing Campaign Classification Project](https://chelseako.github.io/marketing_campaign/)
+## [Project 1: Marketing Campaign](https://chelseako.github.io/marketing_campaign/)
 
 * Built a classification model with 80% accuracy and an F1-score of 0.49 on the test data to predict customer acceptance of a marketing campaign.
 * Identifying customers who are more likely to accept the campaign will assist companies in using their marketing resources more effectively, increasing overall profit.
@@ -22,7 +22,7 @@ M.S. Data Science - DePaul University (expected November 2022)
 
 ![Distributions of Variables](/images/distributions.png)
 
-## [Project 2: House Price Prediction Project](https://chelseako.github.io/House_Pricing_Project/)
+## [Project 2: House Price Prediction](https://chelseako.github.io/House_Pricing_Project/)
 * Created a model that estimates sold prices for Honolulu houses (RMSE ~ $87,000) to help home buyers estimate a competitive bid offer.
 * Custom built a web scraper using Python and Selenium for a local real estate website.
 * Used only predictor variables that can be identified at time of listing.
@@ -31,8 +31,8 @@ M.S. Data Science - DePaul University (expected November 2022)
 
 ![Scatterplot of sold versus original price](/images/scatter_sold_orig.png)
 
-## [Project 3: DREAM Project](https://github.com/chelseako/DREAMProject)
-* Selected by the Master's of Science in Computer Science (MSCS) Consortium to participate in the Distributed REsearch Apprenticeships for Master's (DREAM) Program, designed for students without a bachelor's degree in computing to participate in computing research. 
+## [Project 3: Distributed Research Apprenticeships for Master's (DREAM) Program](https://github.com/chelseako/DREAMProject)
+* Selected by the Master's of Science in Computer Science (MSCS) Consortium to participate in the DREAM Program, designed for students without a bachelor's degree in computing to participate in computing research. 
 * Identify wearable sensors that are the least invasive and provide the most insight into a patient's long-term stress levels to determine effectiveness of counseling/psychotherapy.
 * Develop a framework for machine learning techniques to quantify the impact that different sensors (e.g., heart rate, galvanic skin response) have on determining stress levels to help practitioners select the most suitable sensor(s) to recommend to patients undergoing therapy.
 * Identify best practices for data collection, cleaning, and processing.
