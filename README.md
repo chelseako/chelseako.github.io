@@ -1,4 +1,4 @@
-![Profile picture](/images/ko2.png) 
+![Profile picture](/images/ko3.png) 
 
 ## About Me
 
